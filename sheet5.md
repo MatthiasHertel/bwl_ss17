@@ -84,7 +84,7 @@ entscheidungstableau ... mueh regel (einfache regel)
 
 # hilfsmittel:
 taschenrechner !!!!
-
+07.07
 
 
 

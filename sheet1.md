@@ -1,14 +1,14 @@
-#begrifflichkeiten
+# begrifflichkeiten
 
-## Umsatz = x * p
-## Gewinn = U - k
+Umsatz = x * p
+Gewinn = U - k
 
-## personen gesellschaften
-## kapital gesellschaften
-## gmbh gesellschaft mit beschraenkter haftung
+personen gesellschaften
+kapital gesellschaften
+gmbh gesellschaft mit beschraenkter haftung
 
 
-## em gehoert ein unternehmen ?
+# wem gehoert ein unternehmen ?
 ag
 - den aktionaeren anteilig
 
@@ -41,8 +41,8 @@ a                     b
 ebit = 100            ebit = 100
 
 
-## CEO
-chief executive officer
+## Personen im Unternehmen
+- ceo chief executive officer
 - cfo (2. finanz)
 - cio
 - cto
@@ -111,12 +111,12 @@ erklaert verwendung des geldes
 
 
 ## was ist ein unternehmen wert?
-###1.ag (boersenwert)
+### 1.ag (boersenwert)
 100% der aktien
 preis mal menge
 
 gmbh
-###2 multiplikatoren
+### 2. multiplikatoren
 umsatz gewinn bilanz (schulden)
 
 investment wert is
@@ -124,9 +124,6 @@ investment wert is
 ertragswertverfahren
 discounted cash flow method
 von jedem jahr ziehe ich es etwas ab
-
-
-
 
 100 euro sind heute mehr wert als in 10jahren
 
@@ -143,7 +140,7 @@ infrastruktur (bueros maschinen etc) macht heute keinen sinn mehr
 
 
 
-4. erfragswert
+### 4. erfragswert
 
 discounted cash flow
 
